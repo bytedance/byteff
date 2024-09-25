@@ -1,0 +1,9 @@
+ase==3.22.1
+matplotlib==3.8.3
+networkx==3.2.1
+numpy==1.26.2
+packaging==24.0
+rdkit==2023.9.5
+torch==2.1.0
+torch_geometric==2.5.3
+tqdm==4.66.4

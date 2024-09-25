@@ -1,0 +1,32 @@
+# default configs for training
+
+# meta-information about training
+meta:
+  work_folder: 'train'
+  random_seed: 42
+  fp64: false
+
+# dataset configs
+dataset:
+  - root: ''
+    batch_size: 10
+    train_ratio: 0.9
+    label_type: FFParam
+    shuffle: true
+    loss_weight: 1.0
+    loss:
+      - {}
+    aux_loss: {}
+
+# model configs
+model: {}
+
+# training configs
+training: {}
+  # valid_interval: 5
+  # ckpt_interval: 20
+  # ffopt_interval: 999999
+  # ffopt_iters: 1
+
+  # optimizer: Adam
+  # optimizer_params: {}
