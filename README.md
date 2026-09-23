@@ -1,4 +1,6 @@
-# ByteFF (ByteDance Force Field)
+# [Archived] ByteFF (ByteDance Force Field)
+This repository has been archived and is no longer maintained. For the latest ByteFF models, code, and documentation, please visit the [ByteFF2 repository](https://github.com/ByteDance-Seed/byteff2).
+
 Welcome to the repository of ByteFF!
  This repository hosts the source code for ByteFF paper.
 
